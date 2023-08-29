@@ -1,1 +1,1 @@
-](https://ru.pinterest.com/pin/6333255720090069/)https://ru.pinterest.com/pin/6333255720090069/](https://ru.pinterest.com/pin/6333255720090069/)https://ru.pinterest.com/pin/6333255720090069/
+![Uploading 2d7a90ed498f67d4ec5169c6d9249093.gif…]()
