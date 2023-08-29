@@ -1,3 +1,9 @@
+
+<h3 align="center">В погоне за успехом.</h3>
+
+<p align="center"> <img src="https://media.tenor.com/x1eW6Z7pMnIAAAAj/animated-man-running.gif" width="200" height="250"/> 
+  <img src="https://media.tenor.com/iPWC0upqq_QAAAAi/animated-man-running.gif" width="200" height="250"/></p>
+
 <h1 align="left"></h1>
 
 - ✅ В данный момент владею:
@@ -9,7 +15,8 @@
   - [x] TelegramBot API
   - [x] Jsoup API
   - [x] Git
-  - [x] JUnit 
+  - [x] JUnit
+
 
 - 🌱 В данный момент изучаю:
   - [ ] SPRING
@@ -19,7 +26,7 @@
 
 - 📫 Моя почта: [Click](artur.zubkov111@gmail.com)
 
-- 🚀: Мой телеграм: [Click](https://t.me/H3301C)
+- 🚀 Мой телеграм: [Click](https://t.me/H3301C)
 
 <p align="left">
 </p>
