@@ -4,8 +4,8 @@
 
 ___
 
-<p align="center"> <img src="https://media.tenor.com/x1eW6Z7pMnIAAAAj/animated-man-running.gif" width="200" height="250"/> 
-  <img src="https://media.tenor.com/iPWC0upqq_QAAAAi/animated-man-running.gif" width="200" height="250"/></p>
+<p align="center"> <img src="https://media.tenor.com/x1eW6Z7pMnIAAAAj/animated-man-running.gif" width="100" height="150"/> 
+  <img src="https://media.tenor.com/iPWC0upqq_QAAAAi/animated-man-running.gif" width="100" height="150"/></p>
 
 ___
 
@@ -37,11 +37,11 @@ ___
   - [ ] **HIBERNATE**
 ___
 
-- 👨‍💻 Все мои проекты: [<img src="https://www.pngmart.com/files/15/Web-Blue-Button-PNG-Photos.png" width="50" height="20"/>](https://github.com/A3301Z)
+- 👨‍💻 Все мои проекты: [<img src="https://www.pngmart.com/files/15/Web-Blue-Button-PNG-Photos.png" width="35" height="20"/>](https://github.com/A3301Z)
 
-- 📫 Моя почта: [<img src="https://www.pngmart.com/files/15/Web-Blue-Button-PNG-Photos.png" width="50" height="20"/>](artur.zubkov111@gmail.com)
+- 📫 Моя почта: [<img src="https://www.pngmart.com/files/15/Web-Blue-Button-PNG-Photos.png" width="35" height="20"/>](artur.zubkov111@gmail.com)
 
-- 🚀 Мой телеграм: [<img src="https://www.pngmart.com/files/15/Web-Blue-Button-PNG-Photos.png" width="50" height="20"/>](https://t.me/H3301C)
+- 🚀 Мой телеграм: [<img src="https://www.pngmart.com/files/15/Web-Blue-Button-PNG-Photos.png" width="35" height="20"/>](https://t.me/H3301C)
 
 <p align="left">
 </p>
