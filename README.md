@@ -37,7 +37,7 @@ ___
   - [ ] **HIBERNATE**
 ___
 
-- 👨‍💻 Все мои проекты: [<img src="https://www.pngmart.com/files/15/Web-Blue-Button-PNG-Photos.png" width="35" height="20"/>](https://github.com/A3301Z)
+- 👨‍💻 Все мои проекты: [<img src="https://www.pngmart.com/files/15/Web-Blue-Button-PNG-Photos.png" width="35" height="20"/>]([https://github.com/A3301Z](https://github.com/A3301Z?tab=repositories))
 
 - 📫 Моя почта: `artur.zubkov111@gmail.com`
 
